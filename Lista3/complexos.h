@@ -1,3 +1,12 @@
+/* ----- Informações do projeto -----
+- Disciplina: Algoritmos e Estruturas de Dados I (CTCO01)
+- Prof.ª Elisa de Cassia Silva Rodrigues
+- Tarefa: Lista 3 - TAD Números Complexos
+- Instituição: Universidade Federal de Itajubá (UNIFEI)
+- Curso: Ciência da Computação
+- Feita por Ana Maísa do Nascimento Santos, Monitora da Disciplina
+*/
+
 /*Protótipos das funções do arquivo "complexos.c"*/
 
 /*Struct de um número complexo*/

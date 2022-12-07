@@ -1,11 +1,10 @@
 /* ----- Informações do projeto -----
-- Disciplina: Algoritmos e Estruturas de Dados I (COM111)
+- Disciplina: Algoritmos e Estruturas de Dados I (CTCO01)
 - Prof.ª Elisa de Cassia Silva Rodrigues
-- Tarefa: Lista 4
+- Tarefa: Lista 5 - TAD Dados de Hanoi
 - Instituição: Universidade Federal de Itajubá (UNIFEI)
 - Curso: Ciência da Computação
-- Estudante: Ana Maísa do Nascimento Santos
-- Matrícula: 2021002575
+- Feita por Ana Maísa do Nascimento Santos, Monitora da Disciplina
 */
 
 // Bibliotecas do sistema

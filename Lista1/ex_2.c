@@ -1,3 +1,12 @@
+/* ----- Informações do projeto -----
+- Disciplina: Algoritmos e Estruturas de Dados I (CTCO01)
+- Prof.ª Elisa de Cassia Silva Rodrigues
+- Tarefa: Lista 1 - Exercício 2 - Registro de Alunos
+- Instituição: Universidade Federal de Itajubá (UNIFEI)
+- Curso: Ciência da Computação
+- Feita por Ana Maísa do Nascimento Santos, Monitora da Disciplina
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
